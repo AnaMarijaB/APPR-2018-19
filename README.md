@@ -10,9 +10,9 @@ Analiza podatkov s programom R, 2018/19
 Izbrali si boste temo, s katero se bo vaš projekt ukvarjal.
 Tukaj boste napisali, kje ste dobili podatke, ter kakšen je vaš cilj.
 
-##Podatki
+## Podatki
 
-##Analiza
+## Analiza
 
 ## Program
 

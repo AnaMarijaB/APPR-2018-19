@@ -1,6 +1,6 @@
-# Analiza podatkov s programom R, 2018/19
+# Turizem v Sloveniji
 
-Repozitorij z gradivi pri predmetu APPR v študijskem letu 2018/19
+Analiza podatkov s programom R, 2018/19
 
 * [![Shiny](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/jaanos/APPR-2018-19/master?urlpath=shiny/APPR-2018-19/projekt.Rmd) Shiny
 * [![RStudio](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/jaanos/APPR-2018-19/master?urlpath=rstudio) RStudio
@@ -9,6 +9,10 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2018/19
 
 Izbrali si boste temo, s katero se bo vaš projekt ukvarjal.
 Tukaj boste napisali, kje ste dobili podatke, ter kakšen je vaš cilj.
+
+##Podatki
+
+##Analiza
 
 ## Program
 

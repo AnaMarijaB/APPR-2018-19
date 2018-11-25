@@ -16,12 +16,12 @@ Tabele bom pridobivala iz Sursa v obliki CSV. Pridobljene podatke nameravam prik
 
 Tabela 1 je prenesena iz Sursa in vključuje prihode in prenočitve turistov po vrstah občin, po vrstah nastanitvenih objektov in po državah ter je sestavljena na naslednji način:
 
-stolpec 1: leto
-stolpec 2: vrste občin
-stolpec 3: vrste nastanitvenih objektov
-stolpec 4: države
-stolpec 5: prihodi turistov
-stolpec 6: prenočitve turistov
+- stolpec 1: leto
+- stolpec 2: vrste občin
+- stolpec 3: vrste nastanitvenih objektov
+- stolpec 4: države
+- stolpec 5: prihodi turistov
+- stolpec 6: prenočitve turistov
 
 Tabela 2 je prenesena iz Sursa in vključuje Tuje turisti po sezoni anketiranja, vrsti občine, elementu turistične ponudbe in oceni zadovoljstva ter je sestavljena na naslednji način:
 

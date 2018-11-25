@@ -25,19 +25,19 @@ Tabela 1 je prenesena iz Sursa in vključuje prihode in prenočitve turistov po 
 
 Tabela 2 je prenesena iz Sursa in vključuje Tuje turisti po sezoni anketiranja, vrsti občine, elementu turistične ponudbe in oceni zadovoljstva ter je sestavljena na naslednji način:
 
-stolpec 1: sezona
-stolpec 2: vrsta občine
-stolpec 3: element turistične ponudbe
-stolpec 4: ocena zadovoljstva
+- stolpec 1: sezona
+- stolpec 2: vrsta občine
+- stolpec 3: element turistične ponudbe
+- stolpec 4: ocena zadovoljstva
 
 Tabela 3 pa se nanaša na turistična potovanja domačega prebivalstva in je sestavljena tako:
 
-stolpec 1: leto
-stolpec 2: vrsta turističnega potovanja
-stolpec 3: drstinacija (Slovenija, tujina)
-stolpec 4: starost 
-stolpec 5: število potovanj (v 1000)
-stolpec 6: izdatki na turista na prenočitev (EUR)
+- stolpec 1: leto
+- stolpec 2: vrsta turističnega potovanja
+- stolpec 3: drstinacija (Slovenija, tujina)
+- stolpec 4: starost 
+- stolpec 5: število potovanj (v 1000)
+- stolpec 6: izdatki na turista na prenočitev (EUR)
 
 ## Spletne povezave do tabel
 

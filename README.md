@@ -8,11 +8,11 @@ Analiza podatkov s programom R, 2018/19
 ## Tematika
 
 V prvem delu bom analizirala prihode in prenočitve tujih turistov v Sloveniji ter njihovo zadovoljstvo s turistično ponudbo. V drugem delu bom analizirala potovanja prebivalcev Slovenije glede na destinacijo, spol in starost. Podatke bom pridobivala preko Sursa. 
-Cilj naloge je ugotoviti kateri tip občin v Sloveniji je najbolj obiskan (zdraviliške občine, gorske občine, obmorske občine, meste občine in druge občine) ter katera starostna skupina prebivalcev SLovenije največ potuje ter oliko denarja porabi za nočitev.
+Cilj naloge je ugotoviti kateri tip občin v Sloveniji je najbolj obiskan (zdraviliške občine, gorske občine, obmorske občine, meste občine in druge občine) ter katera starostna skupina prebivalcev Slovenije največ potuje ter koliko denarja porabi za nočitev.
 
 ## Podatki
 
-Tabele bom pridobivala iz Sursa v obliki CSV. Pridobljene podatke nameravam prikazati v obliki tabel. V zaključku bom najbolj turistične občine v Sloveniji tudi označila na zemljevidu. Podatki bodo predstavljeni za vsak tip občine posebej v različnih letih. Ker je na Sursu možno dobiti samo podatek za leto 2015 o zadovoljstvu tujih turistov v Sloveniji bom za to naredila drugo tabelo. Za potovanja slovneskih turistov bom dve tabli združila v eno po tipu potovanj.
+Tabele bom pridobivala iz Sursa v obliki CSV. Pridobljene podatke nameravam prikazati v obliki tabel. V zaključku bom najbolj turistične občine v Sloveniji tudi označila na zemljevidu. Podatki bodo predstavljeni za vsak tip občine posebej v različnih letih. Ker je na Sursu možno dobiti samo podatek za leto 2015 o zadovoljstvu tujih turistov v Sloveniji bom za to naredila drugo tabelo. Za potovanja slovenskih turistov bom dve tabli združila v eno, po tipu potovanj.
 
 Tabela 1 je prenesena iz Sursa in vključuje prihode in prenočitve turistov po vrstah občin, po vrstah nastanitvenih objektov in po državah ter je sestavljena na naslednji način:
 

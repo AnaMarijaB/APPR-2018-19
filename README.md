@@ -7,12 +7,52 @@ Analiza podatkov s programom R, 2018/19
 
 ## Tematika
 
-Izbrali si boste temo, s katero se bo vaš projekt ukvarjal.
-Tukaj boste napisali, kje ste dobili podatke, ter kakšen je vaš cilj.
+V prvem delu bom analizirala prihode in prenočitve tujih turistov v Sloveniji ter njihovo zadovoljstvo s turistično ponudbo. V drugem delu bom analizirala potovanja prebivalcev Slovenije glede na destinacijo, spol in starost. Podatke bom pridobivala preko Sursa. 
+Cilj naloge je ugotoviti kateri tip občin v Sloveniji je najbolj obiskan (zdraviliške občine, gorske občine, obmorske občine, meste občine in druge občine) ter katera starostna skupina prebivalcev SLovenije največ potuje ter oliko denarja porabi za nočitev.
 
 ## Podatki
 
+Tabele bom pridobivala iz Sursa v obliki CSV. Pridobljene podatke nameravam prikazati v obliki tabel. V zaključku bom najbolj turistične občine v Sloveniji tudi označila na zemljevidu. Podatki bodo predstavljeni za vsak tip občine posebej v različnih letih. Ker je na Sursu možno dobiti samo podatek za leto 2015 o zadovoljstvu tujih turistov v Sloveniji bom za to naredila drugo tabelo. Za potovanja slovneskih turistov bom dve tabli združila v eno po tipu potovanj.
+
+Tabela 1 je prenesena iz Sursa in vključuje prihode in prenočitve turistov po vrstah občin, po vrstah nastanitvenih objektov in po državah ter je sestavljena na naslednji način:
+
+stolpec 1: leto
+stolpec 2: vrste občin
+stolpec 3: vrste nastanitvenih objektov
+stolpec 4: države
+stolpec 5: prihodi turistov
+stolpec 6: prenočitve turistov
+
+Tabela 2 je prenesena iz Sursa in vključuje Tuje turisti po sezoni anketiranja, vrsti občine, elementu turistične ponudbe in oceni zadovoljstva ter je sestavljena na naslednji način:
+
+stolpec 1: sezona
+stolpec 2: vrsta občine
+stolpec 3: element turistične ponudbe
+stolpec 4: ocena zadovoljstva
+
+Tabela 3 pa se nanaša na turistična potovanja domačega prebivalstva in je sestavljena tako:
+
+stolpec 1: leto
+stolpec 2: vrsta turističnega potovanja
+stolpec 3: drstinacija (Slovenija, tujina)
+stolpec 4: starost 
+stolpec 5: število potovanj (v 1000)
+stolpec 6: izdatki na turista na prenočitev (EUR)
+
+## Spletne povezave do tabel
+
+https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=2164505S&ti=&path=../Database/Ekonomsko/21_gostinstvo_turizem/01_nastanitev/02_21645_nastanitev_letno/&lang=2
+
+https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=2176606S&ti=&path=../Database/Ekonomsko/21_gostinstvo_turizem/10_tuji_turisti/15_21766_tuji_izdatki_vtis_zad/&lang=2
+
+https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=2170201S&ti=&path=../Database/Ekonomsko/21_gostinstvo_turizem/06_potovanja/30_21702_znacilnosti_letno/&lang=2
+
+https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=2170202S&ti=&path=../Database/Ekonomsko/21_gostinstvo_turizem/06_potovanja/30_21702_znacilnosti_letno/&lang=2
+
+
 ## Analiza
+
+Pri analizi podatkov si nameravam ogledati, kako se spreminjajo količine skozi čas v različnih vrstah občin ter kako se spreminja statistika potovanj slovenskega prebivalstva.
 
 ## Program
 

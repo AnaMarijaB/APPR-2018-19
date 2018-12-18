@@ -1,54 +1,30 @@
-# 2. faza: Uvoz podatkov
-
 sl <- locale("sl", decimal_mark=",", grouping_mark=".")
 
-# Funkcija, ki uvozi občine iz Wikipedije
-uvozi.obcine <- function() {
-  link <- "http://sl.wikipedia.org/wiki/Seznam_ob%C4%8Din_v_Sloveniji"
-  stran <- html_session(link) %>% read_html()
-  tabela <- stran %>% html_nodes(xpath="//table[@class='wikitable sortable']") %>%
-    .[[1]] %>% html_table(dec=",")
-  for (i in 1:ncol(tabela)) {
-    if (is.character(tabela[[i]])) {
-      Encoding(tabela[[i]]) <- "UTF-8"
-    }
-  }
-  colnames(tabela) <- c("obcina", "povrsina", "prebivalci", "gostota", "naselja",
-                        "ustanovitev", "pokrajina", "regija", "odcepitev")
-  tabela$obcina <- gsub("Slovenskih", "Slov.", tabela$obcina)
-  tabela$obcina[tabela$obcina == "Kanal ob Soči"] <- "Kanal"
-  tabela$obcina[tabela$obcina == "Loški potok"] <- "Loški Potok"
-  for (col in c("povrsina", "prebivalci", "gostota", "naselja", "ustanovitev")) {
-    tabela[[col]] <- parse_number(tabela[[col]], na="-", locale=sl)
-  }
-  for (col in c("obcina", "pokrajina", "regija")) {
-    tabela[[col]] <- factor(tabela[[col]])
-  }
-  return(tabela)
-}
-
-# Funkcija, ki uvozi podatke iz datoteke druzine.csv
-uvozi.druzine <- function(obcine) {
-  data <- read_csv2("podatki/druzine.csv", col_names=c("obcina", 1:4),
-                    locale=locale(encoding="Windows-1250"))
-  data$obcina <- data$obcina %>% strapplyc("^([^/]*)") %>% unlist() %>%
-    strapplyc("([^ ]+)") %>% sapply(paste, collapse=" ") %>% unlist()
-  data$obcina[data$obcina == "Sveti Jurij"] <- "Sveti Jurij ob Ščavnici"
-  data <- data %>% melt(id.vars="obcina", variable.name="velikost.druzine",
-                        value.name="stevilo.druzin")
-  data$velikost.druzine <- parse_number(data$velikost.druzine)
-  data$obcina <- factor(data$obcina, levels=obcine)
+# Funkcija, ki uvozi prvo tabelo: prenočitvene zmogljivosti v Sloveniji
+uvozi.tabela1 <- function() {
+  data <- read_csv2("podatki/tabela 1.csv",
+                    col_names = c("VRSTA_OBCINE", "VRSTA_OBJEKTA", "LETO", "ST_OBJEKTOV", "ST_SOB", "LEZISCA_SKUPAJ", "STALNA LEZISCA"),
+                    locale = locale(encoding = "Windows-1250"), skip = 170, n_max = 1166, na = c("...","-", " "))
   return(data)
 }
+tabela1 <- uvozi.tabela1()
 
-# Zapišimo podatke v razpredelnico obcine
-obcine <- uvozi.obcine()
+# Funkcija, ki uvozi drugo tabelo: Zadovoljstvo s turistično ponudbo
+uvozi.tabela2 <- function() {
+  data <- read_csv2("podatki/tabela 2.csv",
+                    col_names = c("SEZONA", "VRSTA_OBCINE", "ELEMENT_TURISTICNE_PONUDBE", "OCENA_SKUPAJ", "ZELO_ZADOVOLJEN", "ZADOVOLJEN", "SREDNJE_ZADOVOLJEN", "Nisem zadovoljen", "Sploh nisem zadovoljen", "Ne morem oceniti"),
+                    locale = locale(encoding = "Windows-1250"), skip = 32, n_max = 656, na = c("...","-", " "))
+  return(data)
+}
+tabela2 <- uvozi.tabela2()
 
-# Zapišimo podatke v razpredelnico druzine.
-druzine <- uvozi.druzine(levels(obcine$obcina))
+# Funkcija, ki uvozi tretjo tabelo: prihodi in prenočitve turistov
+uvozi.tabela3 <- function() {
+  data <- read_csv2("podatki/tabela 3.csv",
+                    col_names = c("VRSTA_OBCINE", "TIP_OBJEKTA", "DRZAVA", "LETO", "PRIHODI", "PRENOCITVE"),
+                    locale = locale(encoding = "Windows-1250"), skip = 4, n_max = 43522, na = c("...","-", " "))
+  return(data)
+}
+tabela3 <- uvozi.tabela3()
 
-# Če bi imeli več funkcij za uvoz in nekaterih npr. še ne bi
-# potrebovali v 3. fazi, bi bilo smiselno funkcije dati v svojo
-# datoteko, tukaj pa bi klicali tiste, ki jih potrebujemo v
-# 2. fazi. Seveda bi morali ustrezno datoteko uvoziti v prihodnjih
-# fazah.
+

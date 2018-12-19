@@ -33,12 +33,6 @@ V prvem delu bom analizirala 3 tabele iz katerih bom pridobila podatke
 - s katerim turističnim dejavnikom so turisti vposamezni občini najbolj in najmanj zadovoljni
 - kateri tip občine je v Sloveniji najbolj obiskan
 
-Prva tabela prikazuje nastanitvene zmogljivosti po posameznih tipih občin. Tukaj bom poiskala katerega tipa nastanitve je v posamezni občini največ. 
-
-Druga tebela prikazuje zadovoljstvo s turistično ponudbo leta 2015. Tukaj se bom osredotočila s katerim dejavnikom so turisti najbolj zadovoljni in s katerim najmanj v posamezni občini.
-
-Tretja tabela prikazuje nočitve in prihode turistov. Zanimalo me bo, kateri tip občine je v Sloveniji najbolj obiskan. 
-
 V drugem delu bom analizirala potovanja Slovencev v tujino. Zanimalo me bo katera starostna skupina največ potuje in koliko porabimo za nočitev. 
 
 Cilj: poskušala bom najti povezave med zadovoljstvom turistov in turistično ponudbo v Sloveniji
@@ -51,13 +45,50 @@ source("uvoz/uvoz.r", encoding="UTF-8")
 
 Uvozila sem podatke o turizmu v obliki CSV s statističnega urada. Podatke imam v štirih razpredelnicah v obliki *tidy data*.
 
-1. `Vrsta občine` - 
- - `Vrsta objekta` - 
- - `Leto` - 
- - `Število objektov` - 
- - `Število sob` - 
- - `Vsa ležišča` - 
- - `Stalna ležišča` - 
+1. `Prenočitvene zmogljivosti v Sloveniji` - Podatki o številu prenočitvenih zmogljovsti v posamezni občini:
+ - `Vrsta občine` - spremenljivka: občina, v kateri so bile narejene meritve
+ - `Vrsta objekta` - spremenljivka: objekt, v katerem so bile narejene meritve
+ - `Leto` - spremenljivka: leto, katerega so bile narejene meritve
+ - `Število objektov` - meritev: število objektov za turistične namene 
+ - `Število sob` - meritev: število sob, na voljo za prenočitev turistov
+ - `Vsa ležišča` - meritev: število postelj, na voljo za turiste (vključuje npr. poletne objekte)
+ - `Stalna ležišča` - meritev: število stalnih ležišč
+```{r tabela1, echo=FALSE, message=FALSE}
+kable(head(tabela1), align = "ccc")
+``` 
+```
+
+2. `Zadovoljstvo s turistično ponudbo` - Podatki o zadovoljstvu turistov s turistično ponudbo v letu 2015:
+ - `Sezona` - spremenljivka: sezona, v kateri so bile narejene meritve
+ - `Vrsta občine` - spremenljivka: občina, v kateri so bile narejene meritve
+ - `element turistične ponudbe` - spremenljivka: element, katerega turisti ocenjujejo
+ - `ocene zadovoljstva` - meritev: ocena elementa turistične ponudbe
+```{r tabela2, echo=FALSE, message=FALSE}
+kable(head(tabela2), align = "ccc")
+``` 
+
+3. `Prihodi in prenočitve turistov` - Podatki o številu prenočitev turistov iz različnih držav:
+ - `Vrsta občine` - spremenljivka: občina, v kateri so bile narejene meritve
+ - `Vrsta objekta` - spremenljivka: objekt, v katerem so bile narejene meritve
+ - `Država` - spremenljivka: država iz katere prihaja turist
+ - `Leto` - spremenljivka: leto, katerega so bile narejene meritve
+ - `prihodi` - meritev: število turistov na različnih turističnih atrakcijah 
+ - `prenočitve` - meritev: število turistov, ki so v Sloveniji prespali
+```{r tabela3, echo=FALSE, message=FALSE}
+kable(head(tabela3), align = "ccc")
+``` 
+
+4. `Potovanja Slovencev` - Podatki o številu potovanj Slovencev po spolu in starosti:
+ - `Vrsta turističnega potovanja` - spremenljivka: zasebno ali poslovno
+ - `destinacija` - spremenljivka: ali potujejo v tujino ali po Sloveniji
+ - `spol` - spremenljivka: spol turista
+ - `Leto` - spremenljivka: leto, katerega so bile narejene meritve
+ - `Potovanja (v 1000)` - meritev: število potovanj (tudi enodnevnih) 
+ - `Prenočitve (v 1000)` - meritev: število prenočitev 
+ - `Povprečni izdatki na turista na prenočitev (EUR)` - meritev: koliko denarja porabi na prenočitev
+ - `starost` - storost turista
+```{r tabela4, echo=FALSE, message=FALSE}
+kable(head(tabela4), align = "ccc")
 
 ***
 

@@ -1,0 +1,665 @@
+"Tuji turisti po: MESEC, VRSTA OBÈINE, ELEMENT TURISTIÈNE PONUDBE ,"
+"OCENA ZADOVOLJSTVA"
+
+" ";" ";" ";"Ocena - SKUPAJ";"Zelo zadovoljen";"Zadovoljen";"Srednje  zadovoljen";"Nisem zadovoljen";"Sploh nisem zadovoljen";"Ne morem oceniti"
+"Glavna sezona"
+" ";"Vrsta obèine - SKUPAJ"
+" ";" ";"Osebna varnost";610567;302098;249112;35035;2974;N;20524
+" ";" ";"Dostopnost turistiènih informacij";610567;151878;312783;90696;14481;6468;34261
+" ";" ";"Enostavnost dostopnosti destinacije";610567;170835;310930;89456;9330;N;26941
+" ";" ";"Cenovna ugodnost prevoza do destinacije";610567;94987;276031;112245;20029;3889;103386
+" ";" ";"Organizacija lokalnega prevoza";610567;75288;179350;99454;22498;7905;226071
+" ";" ";"Splošna èistoèa destinacije";610567;217357;290533;69849;9982;N;21516
+" ";" ";"Neokrnjena narava";610567;218307;282267;68660;7929;N;31680
+" ";" ";"Podnebne razmere";610567;159462;304793;101471;14766;3731;26344
+" ";" ";"Skrb za okolje";610567;157880;303802;85349;8808;N;51997
+" ";" ";"Prijaznost lokalnega prebivalstva";610567;279480;237340;59187;10453;N;23209
+" ";" ";"Raznovrstnost kulturnih/zgodovinskih zanimivosti";610567;98942;284842;124155;13897;N;85637
+" ";" ";"Ponudba kulturnih prireditev";610567;65790;205180;153100;29338;8450;148709
+" ";" ";"Ponudba športnih in rekreativnih dejavnosti";610567;84315;209697;116915;21046;7686;170908
+" ";" ";"Ponudba športnih prireditev";610567;45114;143654;131730;35834;11335;242900
+" ";" ";"Zdravstvena ponudba";610567;54916;125217;93334;13578;4961;318561
+" ";" ";"Dobropoèutna ponudba";610567;79091;159927;97356;16181;4945;253068
+" ";" ";"Ponudba lokalne gastronomije";610567;139631;292250;102286;16802;4769;54829
+" ";" ";"Možnosti za nakupovanje";610567;82569;220274;167539;27283;6836;106067
+" ";" ";"Noèno življenje in zabava";610567;57664;178256;125754;26810;10940;211143
+" ";" ";"Možnosti za poèitek";610567;170864;310843;65669;6908;2768;53514
+" ";" ";"Primerno za družine";610567;136066;260756;75115;8793;N;128108
+" ";" ";"Ponudba kazinojev in igralnic";610567;35640;72521;100581;30403;13057;358365
+" ";" ";"Konferenèna ponudba";610567;23567;87639;75722;17517;10922;395199
+" ";" ";"Kakovost nastanitve";610567;175352;308100;83937;10750;N;30222
+" ";" ";"Cenovna ugodnost ponudbe";610567;136027;314008;104117;8450;N;44065
+" ";" ";"Sloves destinacije";610567;190108;295480;73988;7467;N;41426
+" ";"Zdraviliške obèine"
+" ";" ";"Osebna varnost";71612;44970;14413;10578;N;N;N
+" ";" ";"Dostopnost turistiènih informacij";71612;25875;29025;11548;N;N;N
+" ";" ";"Enostavnost dostopnosti destinacije";71612;29899;27106;11164;N;-;N
+" ";" ";"Cenovna ugodnost prevoza do destinacije";71612;22688;23871;10066;5716;N;8734
+" ";" ";"Organizacija lokalnega prevoza";71612;12658;17168;17028;2995;N;18981
+" ";" ";"Splošna èistoèa destinacije";71612;37481;21530;8831;N;-;N
+" ";" ";"Neokrnjena narava";71612;34687;22990;11384;N;-;N
+" ";" ";"Podnebne razmere";71612;29815;22011;14932;N;N;N
+" ";" ";"Skrb za okolje";71612;30357;24781;11605;N;-;3590
+" ";" ";"Prijaznost lokalnega prebivalstva";71612;37703;21204;9401;N;-;N
+" ";" ";"Raznovrstnost kulturnih/zgodovinskih zanimivosti";71612;13235;23529;18939;3417;N;12187
+" ";" ";"Ponudba kulturnih prireditev";71612;9578;20870;18874;4351;N;16684
+" ";" ";"Ponudba športnih in rekreativnih dejavnosti";71612;12275;22997;17820;N;N;14817
+" ";" ";"Ponudba športnih prireditev";71612;7665;23990;15115;5763;N;18676
+" ";" ";"Zdravstvena ponudba";71612;20626;18812;9731;N;N;21431
+" ";" ";"Dobropoèutna ponudba";71612;25154;20975;9640;N;N;14075
+" ";" ";"Ponudba lokalne gastronomije";71612;18389;31150;13371;N;N;6800
+" ";" ";"Možnosti za nakupovanje";71612;12562;21400;21985;6250;N;7674
+" ";" ";"Noèno življenje in zabava";71612;9024;20539;17178;6831;N;15180
+" ";" ";"Možnosti za poèitek";71612;33092;23762;11661;N;-;2178
+" ";" ";"Primerno za družine";71612;28240;23942;9166;N;N;8137
+" ";" ";"Ponudba kazinojev in igralnic";71612;N;10795;16469;5207;N;33226
+" ";" ";"Konferenèna ponudba";71612;8465;11709;10674;N;N;34190
+" ";" ";"Kakovost nastanitve";71612;36327;25389;7839;N;-;1872
+" ";" ";"Cenovna ugodnost ponudbe";71612;33610;30604;4019;N;N;2110
+" ";" ";"Sloves destinacije";71612;39363;24292;5857;-;N;N
+" ";"Gorske obèine"
+" ";" ";"Osebna varnost";208219;106735;85774;6283;N;-;9259
+" ";" ";"Dostopnost turistiènih informacij";208219;50379;113018;29629;3943;N;10923
+" ";" ";"Enostavnost dostopnosti destinacije";208219;47425;118018;27052;N;N;13231
+" ";" ";"Cenovna ugodnost prevoza do destinacije";208219;25258;101026;33435;4594;N;43523
+" ";" ";"Organizacija lokalnega prevoza";208219;17707;54426;29232;4740;N;100877
+" ";" ";"Splošna èistoèa destinacije";208219;65033;112792;18996;N;N;9463
+" ";" ";"Neokrnjena narava";208219;90541;94067;13583;N;N;9090
+" ";" ";"Podnebne razmere";208219;46588;119036;29390;N;N;10563
+" ";" ";"Skrb za okolje";208219;51465;114924;21990;N;N;19125
+" ";" ";"Prijaznost lokalnega prebivalstva";208219;92498;85900;16755;N;N;11439
+" ";" ";"Raznovrstnost kulturnih/zgodovinskih zanimivosti";208219;28247;113411;37420;N;N;26522
+" ";" ";"Ponudba kulturnih prireditev";208219;17643;74078;58450;5579;N;50952
+" ";" ";"Ponudba športnih in rekreativnih dejavnosti";208219;45524;89340;38438;N;N;33025
+" ";" ";"Ponudba športnih prireditev";208219;16599;55415;54639;9456;N;71051
+" ";" ";"Zdravstvena ponudba";208219;11088;41138;41897;2697;N;110337
+" ";" ";"Dobropoèutna ponudba";208219;17028;53898;40044;N;N;92799
+" ";" ";"Ponudba lokalne gastronomije";208219;35441;110486;37304;4119;N;20606
+" ";" ";"Možnosti za nakupovanje";208219;21995;69685;72723;7288;N;34457
+" ";" ";"Noèno življenje in zabava";208219;14335;60086;43187;5536;3780;81295
+" ";" ";"Možnosti za poèitek";208219;58979;114928;16136;N;N;16270
+" ";" ";"Primerno za družine";208219;46060;104137;18185;N;N;38203
+" ";" ";"Ponudba kazinojev in igralnic";208219;10044;20737;39202;14045;5185;119005
+" ";" ";"Konferenèna ponudba";208219;3554;25290;28391;N;N;144019
+" ";" ";"Kakovost nastanitve";208219;44135;107881;35594;N;N;16326
+" ";" ";"Cenovna ugodnost ponudbe";208219;29278;108481;41572;3516;N;24914
+" ";" ";"Sloves destinacije";208219;50876;114274;22270;N;N;19219
+" ";"Obmorske obèine"
+" ";" ";"Osebna varnost";98680;35761;55694;5189;N;N;N
+" ";" ";"Dostopnost turistiènih informacij";98680;14896;61636;18521;N;N;N
+" ";" ";"Enostavnost dostopnosti destinacije";98680;19821;53675;18306;2981;N;N
+" ";" ";"Cenovna ugodnost prevoza do destinacije";98680;8531;46252;22065;3036;N;17478
+" ";" ";"Organizacija lokalnega prevoza";98680;8948;37850;18471;7059;N;25287
+" ";" ";"Splošna èistoèa destinacije";98680;27428;53977;13486;2350;N;N
+" ";" ";"Neokrnjena narava";98680;18712;58640;16417;N;N;N
+" ";" ";"Podnebne razmere";98680;31713;55237;7104;N;N;N
+" ";" ";"Skrb za okolje";98680;22148;54628;15228;3145;N;2655
+" ";" ";"Prijaznost lokalnega prebivalstva";98680;31202;45852;15605;4064;N;N
+" ";" ";"Raznovrstnost kulturnih/zgodovinskih zanimivosti";98680;11275;49069;24962;3513;N;9540
+" ";" ";"Ponudba kulturnih prireditev";98680;6423;41213;24716;7876;N;17498
+" ";" ";"Ponudba športnih in rekreativnih dejavnosti";98680;8697;41841;21800;4623;N;20906
+" ";" ";"Ponudba športnih prireditev";98680;8232;31536;22628;7017;N;28340
+" ";" ";"Zdravstvena ponudba";98680;6038;27507;11771;3745;N;48657
+" ";" ";"Dobropoèutna ponudba";98680;10830;33631;15547;N;N;35922
+" ";" ";"Ponudba lokalne gastronomije";98680;23389;50176;16277;5008;N;3063
+" ";" ";"Možnosti za nakupovanje";98680;9672;36753;27042;5965;N;18720
+" ";" ";"Noèno življenje in zabava";98680;9067;39920;27900;5249;N;15799
+" ";" ";"Možnosti za poèitek";98680;23596;60838;8436;2200;N;2442
+" ";" ";"Primerno za družine";98680;15352;45287;13806;2364;N;21467
+" ";" ";"Ponudba kazinojev in igralnic";98680;9352;21865;10391;2336;N;53353
+" ";" ";"Konferenèna ponudba";98680;N;13635;12208;3055;N;66051
+" ";" ";"Kakovost nastanitve";98680;20257;56158;15689;3315;N;2568
+" ";" ";"Cenovna ugodnost ponudbe";98680;12047;58305;22839;2253;N;2729
+" ";" ";"Sloves destinacije";98680;20234;60121;12998;2155;N;2331
+" ";"Ljubljana"
+" ";" ";"Osebna varnost";128495;61187;55094;6055;N;-;6023
+" ";" ";"Dostopnost turistiènih informacij";128495;36873;69454;9518;N;N;9039
+" ";" ";"Enostavnost dostopnosti destinacije";128495;43856;59705;17878;N;N;5662
+" ";" ";"Cenovna ugodnost prevoza do destinacije";128495;24629;63429;20075;N;N;15216
+" ";" ";"Organizacija lokalnega prevoza";128495;23613;46243;21446;N;N;34310
+" ";" ";"Splošna èistoèa destinacije";128495;56519;50715;14204;N;-;6639
+" ";" ";"Neokrnjena narava";128495;44502;57472;13397;N;N;11261
+" ";" ";"Podnebne razmere";128495;28010;56758;28896;5238;N;8196
+" ";" ";"Skrb za okolje";128495;34872;60429;17622;N;-;13918
+" ";" ";"Prijaznost lokalnega prebivalstva";128495;66388;45761;9027;N;N;6556
+" ";" ";"Raznovrstnost kulturnih/zgodovinskih zanimivosti";128495;30268;61529;19337;N;N;15743
+" ";" ";"Ponudba kulturnih prireditev";128495;20971;46456;27675;3811;N;28769
+" ";" ";"Ponudba športnih in rekreativnih dejavnosti";128495;7538;33662;19882;4750;N;59911
+" ";" ";"Ponudba športnih prireditev";128495;3874;24768;18769;5787;N;72321
+" ";" ";"Zdravstvena ponudba";128495;9947;26732;12775;3350;N;75580
+" ";" ";"Dobropoèutna ponudba";128495;12388;34769;17164;3774;N;60002
+" ";" ";"Ponudba lokalne gastronomije";128495;36635;54473;18405;N;N;15565
+" ";" ";"Možnosti za nakupovanje";128495;19164;55834;26619;N;-;23423
+" ";" ";"Noèno življenje in zabava";128495;12924;41528;19519;N;N;51507
+" ";" ";"Možnosti za poèitek";128495;31093;65492;12765;N;N;18153
+" ";" ";"Primerno za družine";128495;26029;48746;18614;N;N;33212
+" ";" ";"Ponudba kazinojev in igralnic";128495;N;13424;19833;5474;N;85174
+" ";" ";"Konferenèna ponudba";128495;5205;23158;12086;4746;N;82232
+" ";" ";"Kakovost nastanitve";128495;44404;63071;12107;N;N;7771
+" ";" ";"Cenovna ugodnost ponudbe";128495;35587;61967;18257;N;N;10420
+" ";" ";"Sloves destinacije";128495;49277;53797;11684;N;N;12428
+" ";"Mestne obèine in druge obèin"
+" ";" ";"Osebna varnost";103561;53445;38136;6930;N;-;N
+" ";" ";"Dostopnost turistiènih informacij";103561;23855;39649;21480;N;N;11150
+" ";" ";"Enostavnost dostopnosti destinacije";103561;29836;52426;15057;N;N;N
+" ";" ";"Cenovna ugodnost prevoza do destinacije";103561;13881;41454;26603;N;-;18435
+" ";" ";"Organizacija lokalnega prevoza";103561;12362;23664;13278;N;N;46615
+" ";" ";"Splošna èistoèa destinacije";103561;30897;51519;14331;N;N;N
+" ";" ";"Neokrnjena narava";103561;29865;49098;13879;N;N;8012
+" ";" ";"Podnebne razmere";103561;23335;51751;21148;N;-;N
+" ";" ";"Skrb za okolje";103561;19038;49040;18904;N;N;12710
+" ";" ";"Prijaznost lokalnega prebivalstva";103561;51689;38622;8399;N;-;N
+" ";" ";"Raznovrstnost kulturnih/zgodovinskih zanimivosti";103561;15917;37304;23497;N;N;21645
+" ";" ";"Ponudba kulturnih prireditev";103561;11175;22563;23385;7721;N;34806
+" ";" ";"Ponudba športnih in rekreativnih dejavnosti";103561;10281;21856;18974;N;N;42250
+" ";" ";"Ponudba športnih prireditev";103561;N;7944;20579;N;N;52511
+" ";" ";"Zdravstvena ponudba";103561;N;11028;17161;N;N;62555
+" ";" ";"Dobropoèutna ponudba";103561;13691;16655;14960;N;N;50270
+" ";" ";"Ponudba lokalne gastronomije";103561;25777;45964;16930;N;N;8796
+" ";" ";"Možnosti za nakupovanje";103561;19176;36601;19169;N;N;21793
+" ";" ";"Noèno življenje in zabava";103561;12314;16181;17971;N;N;47362
+" ";" ";"Možnosti za poèitek";103561;24105;45823;16671;N;N;14472
+" ";" ";"Primerno za družine";103561;20384;38645;15344;N;N;27089
+" ";" ";"Ponudba kazinojev in igralnic";103561;9884;N;14686;N;N;67607
+" ";" ";"Konferenèna ponudba";103561;N;13847;12363;N;N;68707
+" ";" ";"Kakovost nastanitve";103561;30229;55601;12708;N;N;N
+" ";" ";"Cenovna ugodnost ponudbe";103561;25505;54651;17429;N;N;N
+" ";" ";"Sloves destinacije";103561;30358;42997;21179;N;N;5750
+"April"
+" ";"Vrsta obèine - SKUPAJ"
+" ";" ";"Osebna varnost";141715;74703;59220;3639;N;N;N
+" ";" ";"Dostopnost turistiènih informacij";141715;44393;72451;16015;N;N;7287
+" ";" ";"Enostavnost dostopnosti destinacije";141715;51024;70020;12248;N;N;6714
+" ";" ";"Cenovna ugodnost prevoza do destinacije";141715;26370;66783;26480;N;N;19419
+" ";" ";"Organizacija lokalnega prevoza";141715;25626;44687;20136;4353;N;46462
+" ";" ";"Splošna èistoèa destinacije";141715;62019;62767;10095;N;N;4930
+" ";" ";"Neokrnjena narava";141715;49813;65634;15532;N;N;9169
+" ";" ";"Podnebne razmere";141715;41672;69456;22570;N;N;4623
+" ";" ";"Skrb za okolje";141715;45051;68396;14910;N;N;11808
+" ";" ";"Prijaznost lokalnega prebivalstva";141715;67098;58032;11053;N;N;N
+" ";" ";"Raznovrstnost kulturnih/zgodovinskih zanimivosti";141715;27790;64428;23569;N;N;20880
+" ";" ";"Ponudba kulturnih prireditev";141715;13261;48514;33819;5530;N;39225
+" ";" ";"Ponudba športnih in rekreativnih dejavnosti";141715;17106;44339;29497;N;N;47674
+" ";" ";"Ponudba športnih prireditev";141715;13414;34172;29096;2890;N;60892
+" ";" ";"Zdravstvena ponudba";141715;17957;34754;13192;N;N;72301
+" ";" ";"Dobropoèutna ponudba";141715;27431;43813;15430;N;N;51380
+" ";" ";"Ponudba lokalne gastronomije";141715;37725;72325;16911;4624;N;9999
+" ";" ";"Možnosti za nakupovanje";141715;20048;56458;29652;8436;N;25227
+" ";" ";"Noèno življenje in zabava";141715;8313;46875;23810;8628;N;51787
+" ";" ";"Možnosti za poèitek";141715;36484;73665;15112;N;N;13952
+" ";" ";"Primerno za družine";141715;33999;53953;18464;N;N;32502
+" ";" ";"Ponudba kazinojev in igralnic";141715;14563;25059;12906;4127;N;83951
+" ";" ";"Konferenèna ponudba";141715;11442;27463;12379;4262;N;84140
+" ";" ";"Kakovost nastanitve";141715;53737;66673;12616;N;N;4481
+" ";" ";"Cenovna ugodnost ponudbe";141715;41470;73306;16196;3538;N;5754
+" ";" ";"Sloves destinacije";141715;48884;67517;14411;N;N;8413
+" ";"Zdraviliške obèine"
+" ";" ";"Osebna varnost";21743;14286;6259;N;-;N;-
+" ";" ";"Dostopnost turistiènih informacij";21743;6612;11525;N;N;N;N
+" ";" ";"Enostavnost dostopnosti destinacije";21743;9751;7879;N;N;-;N
+" ";" ";"Cenovna ugodnost prevoza do destinacije";21743;5254;7293;3738;N;N;N
+" ";" ";"Organizacija lokalnega prevoza";21743;4224;3424;4499;N;-;7526
+" ";" ";"Splošna èistoèa destinacije";21743;11336;8174;N;N;-;N
+" ";" ";"Neokrnjena narava";21743;10146;6905;3701;N;N;N
+" ";" ";"Podnebne razmere";21743;7878;7894;5306;N;-;N
+" ";" ";"Skrb za okolje";21743;8962;8013;N;N;-;N
+" ";" ";"Prijaznost lokalnega prebivalstva";21743;12570;7303;N;-;-;-
+" ";" ";"Raznovrstnost kulturnih/zgodovinskih zanimivosti";21743;3016;5607;4622;N;N;5760
+" ";" ";"Ponudba kulturnih prireditev";21743;2513;4917;5809;N;N;5179
+" ";" ";"Ponudba športnih in rekreativnih dejavnosti";21743;3449;5600;6674;N;-;5447
+" ";" ";"Ponudba športnih prireditev";21743;N;3468;6263;N;N;7517
+" ";" ";"Zdravstvena ponudba";21743;7280;5447;N;N;N;5774
+" ";" ";"Dobropoèutna ponudba";21743;9236;6786;N;N;N;N
+" ";" ";"Ponudba lokalne gastronomije";21743;6859;10451;N;N;-;N
+" ";" ";"Možnosti za nakupovanje";21743;3499;8541;5338;N;N;N
+" ";" ";"Noèno življenje in zabava";21743;N;5134;5567;N;N;6355
+" ";" ";"Možnosti za poèitek";21743;9923;8686;N;-;-;N
+" ";" ";"Primerno za družine";21743;7975;7662;N;-;-;N
+" ";" ";"Ponudba kazinojev in igralnic";21743;N;N;3645;N;N;12207
+" ";" ";"Konferenèna ponudba";21743;3635;N;N;N;N;11829
+" ";" ";"Kakovost nastanitve";21743;11807;6398;N;N;-;N
+" ";" ";"Cenovna ugodnost ponudbe";21743;9028;7234;N;N;-;N
+" ";" ";"Sloves destinacije";21743;9444;8567;N;N;-;N
+" ";"Gorske obèine"
+" ";" ";"Osebna varnost";24680;14322;9072;N;-;-;N
+" ";" ";"Dostopnost turistiènih informacij";24680;6916;10973;N;N;-;N
+" ";" ";"Enostavnost dostopnosti destinacije";24680;9870;10799;N;N;-;N
+" ";" ";"Cenovna ugodnost prevoza do destinacije";24680;N;12581;4093;N;-;4056
+" ";" ";"Organizacija lokalnega prevoza";24680;4921;7582;4293;N;-;7787
+" ";" ";"Splošna èistoèa destinacije";24680;11379;10357;N;-;-;N
+" ";" ";"Neokrnjena narava";24680;8557;12889;N;N;-;N
+" ";" ";"Podnebne razmere";24680;8357;12189;N;N;N;N
+" ";" ";"Skrb za okolje";24680;7169;13420;N;-;-;N
+" ";" ";"Prijaznost lokalnega prebivalstva";24680;14050;7825;N;-;-;N
+" ";" ";"Raznovrstnost kulturnih/zgodovinskih zanimivosti";24680;N;13951;4952;N;-;N
+" ";" ";"Ponudba kulturnih prireditev";24680;N;6015;10755;N;-;5300
+" ";" ";"Ponudba športnih in rekreativnih dejavnosti";24680;N;7593;6401;N;-;6609
+" ";" ";"Ponudba športnih prireditev";24680;N;4456;8388;N;-;9338
+" ";" ";"Zdravstvena ponudba";24680;N;5269;3750;N;-;11639
+" ";" ";"Dobropoèutna ponudba";24680;5283;8587;4250;N;-;6307
+" ";" ";"Ponudba lokalne gastronomije";24680;5443;14714;N;N;-;N
+" ";" ";"Možnosti za nakupovanje";24680;N;9466;5736;N;N;N
+" ";" ";"Noèno življenje in zabava";24680;N;10790;5844;N;-;5788
+" ";" ";"Možnosti za poèitek";24680;5146;15051;N;N;N;N
+" ";" ";"Primerno za družine";24680;5698;11869;N;N;N;N
+" ";" ";"Ponudba kazinojev in igralnic";24680;N;4828;3370;N;N;11123
+" ";" ";"Konferenèna ponudba";24680;N;N;N;N;-;15638
+" ";" ";"Kakovost nastanitve";24680;9829;11608;N;-;N;N
+" ";" ";"Cenovna ugodnost ponudbe";24680;11190;10470;N;N;N;N
+" ";" ";"Sloves destinacije";24680;10096;10735;N;-;-;N
+" ";"Obmorske obèine"
+" ";" ";"Osebna varnost";28045;10674;16692;N;-;N;N
+" ";" ";"Dostopnost turistiènih informacij";28045;5579;19305;N;N;N;N
+" ";" ";"Enostavnost dostopnosti destinacije";28045;5908;18040;N;N;N;N
+" ";" ";"Cenovna ugodnost prevoza do destinacije";28045;3940;16135;4010;N;N;3572
+" ";" ";"Organizacija lokalnega prevoza";28045;N;16111;2804;N;N;4865
+" ";" ";"Splošna èistoèa destinacije";28045;9516;15539;N;N;-;N
+" ";" ";"Neokrnjena narava";28045;5397;18505;3549;N;N;-
+" ";" ";"Podnebne razmere";28045;4999;19079;N;N;N;-
+" ";" ";"Skrb za okolje";28045;5673;17887;N;N;N;N
+" ";" ";"Prijaznost lokalnega prebivalstva";28045;9888;14390;N;N;N;N
+" ";" ";"Raznovrstnost kulturnih/zgodovinskih zanimivosti";28045;N;17162;5441;N;N;2369
+" ";" ";"Ponudba kulturnih prireditev";28045;N;15987;6316;N;N;3067
+" ";" ";"Ponudba športnih in rekreativnih dejavnosti";28045;N;15850;5406;-;N;3961
+" ";" ";"Ponudba športnih prireditev";28045;N;15670;4082;-;N;5489
+" ";" ";"Zdravstvena ponudba";28045;N;13819;4020;N;N;7566
+" ";" ";"Dobropoèutna ponudba";28045;5543;14014;3495;N;N;4430
+" ";" ";"Ponudba lokalne gastronomije";28045;6720;15605;3087;N;N;N
+" ";" ";"Možnosti za nakupovanje";28045;N;12839;6767;N;N;2907
+" ";" ";"Noèno življenje in zabava";28045;N;13694;5468;N;N;5179
+" ";" ";"Možnosti za poèitek";28045;5515;17485;3732;N;N;N
+" ";" ";"Primerno za družine";28045;4025;15228;4717;N;N;N
+" ";" ";"Ponudba kazinojev in igralnic";28045;4172;11383;N;N;N;9221
+" ";" ";"Konferenèna ponudba";28045;N;10071;N;N;N;12165
+" ";" ";"Kakovost nastanitve";28045;7852;15786;N;N;N;N
+" ";" ";"Cenovna ugodnost ponudbe";28045;6565;17403;N;N;N;-
+" ";" ";"Sloves destinacije";28045;8314;15419;N;N;N;N
+" ";"Ljubljana"
+" ";" ";"Osebna varnost";35972;21420;12819;N;N;-;N
+" ";" ";"Dostopnost turistiènih informacij";35972;16887;14114;2651;N;-;N
+" ";" ";"Enostavnost dostopnosti destinacije";35972;16064;15825;3058;N;-;N
+" ";" ";"Cenovna ugodnost prevoza do destinacije";35972;8991;15248;8420;N;-;3137
+" ";" ";"Organizacija lokalnega prevoza";35972;10698;11234;6405;N;-;6658
+" ";" ";"Splošna èistoèa destinacije";35972;17184;14780;N;N;N;N
+" ";" ";"Neokrnjena narava";35972;16868;12154;3700;N;-;3007
+" ";" ";"Podnebne razmere";35972;12473;16392;5238;N;-;N
+" ";" ";"Skrb za okolje";35972;14700;14883;3415;N;-;2773
+" ";" ";"Prijaznost lokalnega prebivalstva";35972;15349;16562;N;-;-;N
+" ";" ";"Raznovrstnost kulturnih/zgodovinskih zanimivosti";35972;14294;14578;4132;-;-;2968
+" ";" ";"Ponudba kulturnih prireditev";35972;6303;13898;5952;N;-;9440
+" ";" ";"Ponudba športnih in rekreativnih dejavnosti";35972;3490;8306;8062;N;-;15529
+" ";" ";"Ponudba športnih prireditev";35972;N;6147;7869;N;-;18140
+" ";" ";"Zdravstvena ponudba";35972;N;5934;2356;N;N;23595
+" ";" ";"Dobropoèutna ponudba";35972;N;7475;3259;N;N;20438
+" ";" ";"Ponudba lokalne gastronomije";35972;12032;17229;3838;N;-;N
+" ";" ";"Možnosti za nakupovanje";35972;9230;14263;5207;N;N;6049
+" ";" ";"Noèno življenje in zabava";35972;N;10100;4881;N;-;17248
+" ";" ";"Možnosti za poèitek";35972;8542;17256;3831;N;N;5324
+" ";" ";"Primerno za družine";35972;9361;10134;5040;-;N;11367
+" ";" ";"Ponudba kazinojev in igralnic";35972;N;3572;N;N;N;27900
+" ";" ";"Konferenèna ponudba";35972;2722;6435;N;N;N;23483
+" ";" ";"Kakovost nastanitve";35972;14113;16983;3272;N;N;N
+" ";" ";"Cenovna ugodnost ponudbe";35972;8220;20687;5079;N;N;N
+" ";" ";"Sloves destinacije";35972;13328;17960;N;N;-;N
+" ";"Mestne obèine in druge obèin"
+" ";" ";"Osebna varnost";31275;14001;14378;N;-;-;N
+" ";" ";"Dostopnost turistiènih informacij";31275;8397;16534;N;-;-;N
+" ";" ";"Enostavnost dostopnosti destinacije";31275;9431;17476;N;N;-;N
+" ";" ";"Cenovna ugodnost prevoza do destinacije";31275;4723;15524;N;N;-;N
+" ";" ";"Organizacija lokalnega prevoza";31275;N;6336;N;-;-;19626
+" ";" ";"Splošna èistoèa destinacije";31275;12603;13917;N;N;-;N
+" ";" ";"Neokrnjena narava";31275;8845;15180;N;-;-;N
+" ";" ";"Podnebne razmere";31275;7964;13902;6494;N;-;N
+" ";" ";"Skrb za okolje";31275;8548;14193;N;-;N;N
+" ";" ";"Prijaznost lokalnega prebivalstva";31275;15242;11952;N;-;-;N
+" ";" ";"Raznovrstnost kulturnih/zgodovinskih zanimivosti";31275;5907;13130;N;N;N;7171
+" ";" ";"Ponudba kulturnih prireditev";31275;N;7698;N;N;N;16239
+" ";" ";"Ponudba športnih in rekreativnih dejavnosti";31275;N;6990;N;-;N;16127
+" ";" ";"Ponudba športnih prireditev";31275;N;N;N;N;-;20407
+" ";" ";"Zdravstvena ponudba";31275;N;N;N;-;-;23726
+" ";" ";"Dobropoèutna ponudba";31275;N;6951;N;N;-;16970
+" ";" ";"Ponudba lokalne gastronomije";31275;6671;14326;N;N;-;N
+" ";" ";"Možnosti za nakupovanje";31275;N;11350;6603;N;N;9976
+" ";" ";"Noèno življenje in zabava";31275;N;7158;N;N;N;17216
+" ";" ";"Možnosti za poèitek";31275;7357;15186;N;-;-;6942
+" ";" ";"Primerno za družine";31275;6940;9059;N;N;N;11225
+" ";" ";"Ponudba kazinojev in igralnic";31275;4163;N;N;-;-;23500
+" ";" ";"Konferenèna ponudba";31275;N;N;N;N;-;21024
+" ";" ";"Kakovost nastanitve";31275;10134;15898;N;N;N;N
+" ";" ";"Cenovna ugodnost ponudbe";31275;6467;17512;N;N;-;N
+" ";" ";"Sloves destinacije";31275;7701;14836;N;N;-;N
+"Maj"
+" ";"Vrsta obèine - SKUPAJ"
+" ";" ";"Osebna varnost";175301;96044;65985;4389;N;N;8253
+" ";" ";"Dostopnost turistiènih informacij";175301;59258;75646;22954;N;N;11147
+" ";" ";"Enostavnost dostopnosti destinacije";175301;53251;86413;20793;N;N;7798
+" ";" ";"Cenovna ugodnost prevoza do destinacije";175301;35232;83735;28072;N;N;24642
+" ";" ";"Organizacija lokalnega prevoza";175301;31663;58589;27381;5261;N;50269
+" ";" ";"Splošna èistoèa destinacije";175301;72729;79898;14226;N;N;6315
+" ";" ";"Neokrnjena narava";175301;68979;81091;16329;N;N;7294
+" ";" ";"Podnebne razmere";175301;53642;82077;29991;N;N;6075
+" ";" ";"Skrb za okolje";175301;53800;81681;20987;N;-;16780
+" ";" ";"Prijaznost lokalnega prebivalstva";175301;84995;67635;12252;N;N;8582
+" ";" ";"Raznovrstnost kulturnih/zgodovinskih zanimivosti";175301;37329;75638;33523;5830;N;22566
+" ";" ";"Ponudba kulturnih prireditev";175301;25052;53797;41453;6502;N;46916
+" ";" ";"Ponudba športnih in rekreativnih dejavnosti";175301;19362;50437;44398;6604;N;53277
+" ";" ";"Ponudba športnih prireditev";175301;13969;36360;41127;6378;N;74097
+" ";" ";"Zdravstvena ponudba";175301;17883;34930;30851;N;N;87340
+" ";" ";"Dobropoèutna ponudba";175301;22546;50214;27913;4434;N;69424
+" ";" ";"Ponudba lokalne gastronomije";175301;46143;80335;24278;4656;N;19467
+" ";" ";"Možnosti za nakupovanje";175301;25225;67418;37515;7770;N;35874
+" ";" ";"Noèno življenje in zabava";175301;18429;49876;33656;7405;N;63192
+" ";" ";"Možnosti za poèitek";175301;46940;84840;22590;N;N;16128
+" ";" ";"Primerno za družine";175301;36634;74076;20574;4599;-;39418
+" ";" ";"Ponudba kazinojev in igralnic";175301;12521;30641;31540;4209;N;94322
+" ";" ";"Konferenèna ponudba";175301;19362;32632;16566;5438;N;99483
+" ";" ";"Kakovost nastanitve";175301;61841;88345;16155;N;N;7957
+" ";" ";"Cenovna ugodnost ponudbe";175301;47149;91378;23939;N;-;8426
+" ";" ";"Sloves destinacije";175301;62121;87540;14127;N;N;10401
+" ";"Zdraviliške obèine"
+" ";" ";"Osebna varnost";21902;17339;3221;N;-;-;-
+" ";" ";"Dostopnost turistiènih informacij";21902;10415;7072;N;N;-;N
+" ";" ";"Enostavnost dostopnosti destinacije";21902;11344;7504;N;N;-;N
+" ";" ";"Cenovna ugodnost prevoza do destinacije";21902;6041;5491;4280;N;-;4992
+" ";" ";"Organizacija lokalnega prevoza";21902;4552;4716;N;N;N;9140
+" ";" ";"Splošna èistoèa destinacije";21902;12923;6057;N;N;-;N
+" ";" ";"Neokrnjena narava";21902;13835;5675;N;N;N;-
+" ";" ";"Podnebne razmere";21902;11585;5231;4469;N;N;N
+" ";" ";"Skrb za okolje";21902;11667;4364;N;N;-;N
+" ";" ";"Prijaznost lokalnega prebivalstva";21902;14261;5691;N;-;N;N
+" ";" ";"Raznovrstnost kulturnih/zgodovinskih zanimivosti";21902;5420;6563;N;N;-;5604
+" ";" ";"Ponudba kulturnih prireditev";21902;4580;4394;4059;N;N;7069
+" ";" ";"Ponudba športnih in rekreativnih dejavnosti";21902;6417;5191;3547;N;-;6177
+" ";" ";"Ponudba športnih prireditev";21902;4763;N;4518;N;N;8311
+" ";" ";"Zdravstvena ponudba";21902;7011;4793;N;N;-;8074
+" ";" ";"Dobropoèutna ponudba";21902;8036;3753;N;N;-;6420
+" ";" ";"Ponudba lokalne gastronomije";21902;10176;5036;N;N;-;N
+" ";" ";"Možnosti za nakupovanje";21902;5465;6573;5649;N;N;N
+" ";" ";"Noèno življenje in zabava";21902;N;3808;5625;N;N;7780
+" ";" ";"Možnosti za poèitek";21902;12890;4048;N;N;N;N
+" ";" ";"Primerno za družine";21902;8379;8246;N;N;-;N
+" ";" ";"Ponudba kazinojev in igralnic";21902;N;N;N;N;N;12236
+" ";" ";"Konferenèna ponudba";21902;N;3714;N;N;-;12617
+" ";" ";"Kakovost nastanitve";21902;13203;6593;N;N;-;N
+" ";" ";"Cenovna ugodnost ponudbe";21902;10825;7427;N;N;-;N
+" ";" ";"Sloves destinacije";21902;13620;5907;N;-;N;N
+" ";"Gorske obèine"
+" ";" ";"Osebna varnost";35993;21501;12155;N;-;-;N
+" ";" ";"Dostopnost turistiènih informacij";35993;10400;16238;4998;-;N;N
+" ";" ";"Enostavnost dostopnosti destinacije";35993;7358;21222;N;N;N;N
+" ";" ";"Cenovna ugodnost prevoza do destinacije";35993;N;23211;6277;-;-;N
+" ";" ";"Organizacija lokalnega prevoza";35993;N;13636;9116;N;N;N
+" ";" ";"Splošna èistoèa destinacije";35993;9676;24309;N;-;-;N
+" ";" ";"Neokrnjena narava";35993;14006;19489;N;-;-;N
+" ";" ";"Podnebne razmere";35993;9289;19074;6989;-;N;N
+" ";" ";"Skrb za okolje";35993;11948;17595;N;-;-;N
+" ";" ";"Prijaznost lokalnega prebivalstva";35993;18795;14597;N;-;-;N
+" ";" ";"Raznovrstnost kulturnih/zgodovinskih zanimivosti";35993;N;16986;10575;-;N;N
+" ";" ";"Ponudba kulturnih prireditev";35993;N;13049;12974;-;-;N
+" ";" ";"Ponudba športnih in rekreativnih dejavnosti";35993;N;10752;16899;-;-;N
+" ";" ";"Ponudba športnih prireditev";35993;N;7111;18761;-;N;7680
+" ";" ";"Zdravstvena ponudba";35993;N;5700;17415;-;N;11453
+" ";" ";"Dobropoèutna ponudba";35993;N;12325;13134;N;N;8197
+" ";" ";"Ponudba lokalne gastronomije";35993;7482;19977;N;N;-;N
+" ";" ";"Možnosti za nakupovanje";35993;N;18136;9798;N;N;N
+" ";" ";"Noèno življenje in zabava";35993;N;16530;8906;N;N;7791
+" ";" ";"Možnosti za poèitek";35993;8395;20899;N;-;-;N
+" ";" ";"Primerno za družine";35993;5229;20561;N;-;-;N
+" ";" ";"Ponudba kazinojev in igralnic";35993;N;5439;17295;N;-;12230
+" ";" ";"Konferenèna ponudba";35993;N;7396;6791;N;N;15634
+" ";" ";"Kakovost nastanitve";35993;10127;20850;N;-;-;N
+" ";" ";"Cenovna ugodnost ponudbe";35993;9167;16538;6674;N;-;N
+" ";" ";"Sloves destinacije";35993;9593;21842;N;-;-;N
+" ";"Obmorske obèine"
+" ";" ";"Osebna varnost";32692;10509;20613;N;-;N;N
+" ";" ";"Dostopnost turistiènih informacij";32692;4926;22755;3889;-;-;N
+" ";" ";"Enostavnost dostopnosti destinacije";32692;4679;21456;4919;N;N;N
+" ";" ";"Cenovna ugodnost prevoza do destinacije";32692;3257;22139;3457;-;-;3839
+" ";" ";"Organizacija lokalnega prevoza";32692;N;18319;5117;N;N;4876
+" ";" ";"Splošna èistoèa destinacije";32692;7492;21578;N;-;N;N
+" ";" ";"Neokrnjena narava";32692;6381;21420;3972;N;-;N
+" ";" ";"Podnebne razmere";32692;7107;22125;N;-;N;N
+" ";" ";"Skrb za okolje";32692;5663;21689;4125;-;-;N
+" ";" ";"Prijaznost lokalnega prebivalstva";32692;9159;18139;3746;N;-;N
+" ";" ";"Raznovrstnost kulturnih/zgodovinskih zanimivosti";32692;N;18195;7320;N;-;2842
+" ";" ";"Ponudba kulturnih prireditev";32692;N;14096;9816;N;-;5535
+" ";" ";"Ponudba športnih in rekreativnih dejavnosti";32692;N;15556;7691;N;N;6576
+" ";" ";"Ponudba športnih prireditev";32692;N;12668;6370;N;-;10138
+" ";" ";"Zdravstvena ponudba";32692;N;13094;N;N;-;14361
+" ";" ";"Dobropoèutna ponudba";32692;N;18966;N;N;-;8713
+" ";" ";"Ponudba lokalne gastronomije";32692;5797;22172;3288;N;-;N
+" ";" ";"Možnosti za nakupovanje";32692;N;16153;8549;N;N;4970
+" ";" ";"Noèno življenje in zabava";32692;N;13103;7023;N;N;9029
+" ";" ";"Možnosti za poèitek";32692;3543;24105;N;N;-;N
+" ";" ";"Primerno za družine";32692;N;21738;N;N;-;4091
+" ";" ";"Ponudba kazinojev in igralnic";32692;N;13778;N;N;N;14594
+" ";" ";"Konferenèna ponudba";32692;N;9882;N;N;N;17989
+" ";" ";"Kakovost nastanitve";32692;4545;25449;N;N;N;N
+" ";" ";"Cenovna ugodnost ponudbe";32692;N;24620;4763;N;-;N
+" ";" ";"Sloves destinacije";32692;4592;25308;N;-;N;N
+" ";"Ljubljana"
+" ";" ";"Osebna varnost";47159;27512;13766;N;N;-;4999
+" ";" ";"Dostopnost turistiènih informacij";47159;19142;19843;N;N;N;5599
+" ";" ";"Enostavnost dostopnosti destinacije";47159;17565;18454;4872;N;N;5000
+" ";" ";"Cenovna ugodnost prevoza do destinacije";47159;13317;17437;7042;N;N;7688
+" ";" ";"Organizacija lokalnega prevoza";47159;11978;12628;6670;N;N;13938
+" ";" ";"Splošna èistoèa destinacije";47159;24045;14929;3083;N;-;5032
+" ";" ";"Neokrnjena narava";47159;19593;17667;5022;N;-;4806
+" ";" ";"Podnebne razmere";47159;13341;21150;7279;N;-;4537
+" ";" ";"Skrb za okolje";47159;16240;19063;3573;N;-;7498
+" ";" ";"Prijaznost lokalnega prebivalstva";47159;24147;15122;N;N;-;5464
+" ";" ";"Raznovrstnost kulturnih/zgodovinskih zanimivosti";47159;12709;18940;5642;N;-;8199
+" ";" ";"Ponudba kulturnih prireditev";47159;10317;12934;8774;N;-;14399
+" ";" ";"Ponudba športnih in rekreativnih dejavnosti";47159;5417;7466;7848;N;N;23696
+" ";" ";"Ponudba športnih prireditev";47159;2782;6399;5756;N;N;30375
+" ";" ";"Zdravstvena ponudba";47159;3941;5170;4509;N;N;32424
+" ";" ";"Dobropoèutna ponudba";47159;5763;6891;4903;N;N;28036
+" ";" ";"Ponudba lokalne gastronomije";47159;13992;14612;7962;N;N;9023
+" ";" ";"Možnosti za nakupovanje";47159;6788;18178;6438;N;N;14111
+" ";" ";"Noèno življenje in zabava";47159;5047;12266;4932;N;N;23643
+" ";" ";"Možnosti za poèitek";47159;11627;20104;N;N;N;9811
+" ";" ";"Primerno za družine";47159;9505;13842;4489;N;-;18593
+" ";" ";"Ponudba kazinojev in igralnic";47159;3139;3589;3890;N;N;35624
+" ";" ";"Konferenèna ponudba";47159;6166;4953;2420;N;N;32594
+" ";" ";"Kakovost nastanitve";47159;17516;19039;4851;N;-;5544
+" ";" ";"Cenovna ugodnost ponudbe";47159;13991;20517;4910;N;-;5834
+" ";" ";"Sloves destinacije";47159;20101;17986;2335;-;-;6737
+" ";"Mestne obèine in druge obèin"
+" ";" ";"Osebna varnost";37555;19183;16229;N;N;-;N
+" ";" ";"Dostopnost turistiènih informacij";37555;14374;9738;8326;N;N;N
+" ";" ";"Enostavnost dostopnosti destinacije";37555;12303;17777;5875;N;-;N
+" ";" ";"Cenovna ugodnost prevoza do destinacije";37555;8988;15458;7015;N;N;5248
+" ";" ";"Organizacija lokalnega prevoza";37555;6589;9290;N;N;-;15866
+" ";" ";"Splošna èistoèa destinacije";37555;18594;13025;5042;N;-;-
+" ";" ";"Neokrnjena narava";37555;15164;16840;N;N;-;N
+" ";" ";"Podnebne razmere";37555;12319;14497;8600;N;N;N
+" ";" ";"Skrb za okolje";37555;8281;18971;N;N;-;N
+" ";" ";"Prijaznost lokalnega prebivalstva";37555;18633;14087;N;-;N;N
+" ";" ";"Raznovrstnost kulturnih/zgodovinskih zanimivosti";37555;9790;14953;6317;N;-;N
+" ";" ";"Ponudba kulturnih prireditev";37555;N;9325;5829;N;N;14095
+" ";" ";"Ponudba športnih in rekreativnih dejavnosti";37555;N;11472;8412;N;N;11313
+" ";" ";"Ponudba športnih prireditev";37555;N;6657;5722;N;N;17593
+" ";" ";"Zdravstvena ponudba";37555;4531;6174;4940;N;N;21028
+" ";" ";"Dobropoèutna ponudba";37555;5229;8279;N;N;N;18058
+" ";" ";"Ponudba lokalne gastronomije";37555;8696;18538;7051;N;-;N
+" ";" ";"Možnosti za nakupovanje";37555;9111;8377;7082;N;N;9546
+" ";" ";"Noèno življenje in zabava";37555;6553;N;7169;N;N;14949
+" ";" ";"Možnosti za poèitek";37555;10486;15684;9188;-;N;N
+" ";" ";"Primerno za družine";37555;10615;9690;6140;N;-;8792
+" ";" ";"Ponudba kazinojev in igralnic";37555;4166;5493;N;N;N;19637
+" ";" ";"Konferenèna ponudba";37555;N;6686;N;N;N;20648
+" ";" ";"Kakovost nastanitve";37555;16451;16415;N;-;-;-
+" ";" ";"Cenovna ugodnost ponudbe";37555;10621;22275;N;-;-;-
+" ";" ";"Sloves destinacije";37555;14215;16497;5390;N;-;N
+"September"
+" ";"Vrsta obèine - SKUPAJ"
+" ";" ";"Osebna varnost";186356;103597;74323;4933;N;N;N
+" ";" ";"Dostopnost turistiènih informacij";186356;59739;97425;20579;N;-;5291
+" ";" ";"Enostavnost dostopnosti destinacije";186356;59572;92483;25178;N;-;6155
+" ";" ";"Cenovna ugodnost prevoza do destinacije";186356;39625;85108;32462;6165;N;22618
+" ";" ";"Organizacija lokalnega prevoza";186356;34697;54073;26494;10594;N;58662
+" ";" ";"Splošna èistoèa destinacije";186356;77470;91012;13909;N;-;3430
+" ";" ";"Neokrnjena narava";186356;76399;87683;16999;N;N;4439
+" ";" ";"Podnebne razmere";186356;53549;90903;35864;N;-;3205
+" ";" ";"Skrb za okolje";186356;58366;91476;26169;N;-;8883
+" ";" ";"Prijaznost lokalnega prebivalstva";186356;85948;76108;15656;N;N;4958
+" ";" ";"Raznovrstnost kulturnih/zgodovinskih zanimivosti";186356;33830;92367;38439;3954;N;17359
+" ";" ";"Ponudba kulturnih prireditev";186356;21699;68506;52624;8517;N;34453
+" ";" ";"Ponudba športnih in rekreativnih dejavnosti";186356;18286;66296;35893;7496;N;56854
+" ";" ";"Ponudba športnih prireditev";186356;12270;40872;42582;10107;N;75832
+" ";" ";"Zdravstvena ponudba";186356;20825;37682;26639;6376;N;92665
+" ";" ";"Dobropoèutna ponudba";186356;28499;50984;26121;5738;N;72711
+" ";" ";"Ponudba lokalne gastronomije";186356;53659;89397;24866;4287;N;13711
+" ";" ";"Možnosti za nakupovanje";186356;22678;70046;58375;8425;N;24938
+" ";" ";"Noèno življenje in zabava";186356;13404;51290;52981;9479;N;55459
+" ";" ";"Možnosti za poèitek";186356;49342;97678;24045;N;N;12645
+" ";" ";"Primerno za družine";186356;33671;74153;26164;4377;N;47007
+" ";" ";"Ponudba kazinojev in igralnic";186356;12284;26077;25490;18785;N;101341
+" ";" ";"Konferenèna ponudba";186356;12546;27868;22510;4218;N;117183
+" ";" ";"Kakovost nastanitve";186356;60621;90996;28586;N;N;4235
+" ";" ";"Cenovna ugodnost ponudbe";186356;54609;96840;28940;N;N;4461
+" ";" ";"Sloves destinacije";186356;68541;83096;25475;N;N;7592
+" ";"Zdraviliške obèine"
+" ";" ";"Osebna varnost";20430;13236;4577;N;N;-;N
+" ";" ";"Dostopnost turistiènih informacij";20430;10252;8386;N;-;-;N
+" ";" ";"Enostavnost dostopnosti destinacije";20430;11324;5111;3346;-;-;N
+" ";" ";"Cenovna ugodnost prevoza do destinacije";20430;7413;5108;2280;N;N;4086
+" ";" ";"Organizacija lokalnega prevoza";20430;5246;3629;3342;N;N;6975
+" ";" ";"Splošna èistoèa destinacije";20430;13773;4961;N;N;-;N
+" ";" ";"Neokrnjena narava";20430;11825;5644;N;N;-;N
+" ";" ";"Podnebne razmere";20430;11506;7065;N;N;-;N
+" ";" ";"Skrb za okolje";20430;13345;4470;N;N;-;N
+" ";" ";"Prijaznost lokalnega prebivalstva";20430;14248;4278;N;N;-;N
+" ";" ";"Raznovrstnost kulturnih/zgodovinskih zanimivosti";20430;3272;7838;4055;N;N;4198
+" ";" ";"Ponudba kulturnih prireditev";20430;N;7406;4243;N;N;5965
+" ";" ";"Ponudba športnih in rekreativnih dejavnosti";20430;N;5900;3220;N;N;6731
+" ";" ";"Ponudba športnih prireditev";20430;N;6603;3657;N;N;7185
+" ";" ";"Zdravstvena ponudba";20430;7895;5542;N;N;-;4869
+" ";" ";"Dobropoèutna ponudba";20430;9185;5360;2504;N;-;N
+" ";" ";"Ponudba lokalne gastronomije";20430;9715;6824;N;-;-;N
+" ";" ";"Možnosti za nakupovanje";20430;4845;6890;6014;N;N;N
+" ";" ";"Noèno življenje in zabava";20430;3139;6578;3540;N;N;5283
+" ";" ";"Možnosti za poèitek";20430;13446;3738;N;N;-;N
+" ";" ";"Primerno za družine";20430;8382;6353;N;N;N;N
+" ";" ";"Ponudba kazinojev in igralnic";20430;N;3004;N;N;N;11014
+" ";" ";"Konferenèna ponudba";20430;2678;N;N;N;N;13100
+" ";" ";"Kakovost nastanitve";20430;14229;4198;N;N;-;N
+" ";" ";"Cenovna ugodnost ponudbe";20430;13104;6098;N;-;-;N
+" ";" ";"Sloves destinacije";20430;14707;5069;N;-;-;N
+" ";"Gorske obèine"
+" ";" ";"Osebna varnost";42577;21262;19909;N;-;-;N
+" ";" ";"Dostopnost turistiènih informacij";42577;10020;25515;6105;-;-;N
+" ";" ";"Enostavnost dostopnosti destinacije";42577;9965;27034;N;-;-;N
+" ";" ";"Cenovna ugodnost prevoza do destinacije";42577;6016;26367;4579;-;-;5615
+" ";" ";"Organizacija lokalnega prevoza";42577;N;7929;N;N;N;26809
+" ";" ";"Splošna èistoèa destinacije";42577;16703;24766;N;-;-;N
+" ";" ";"Neokrnjena narava";42577;16794;23766;N;-;-;N
+" ";" ";"Podnebne razmere";42577;8568;15188;17201;N;-;N
+" ";" ";"Skrb za okolje";42577;9191;24215;6793;-;-;N
+" ";" ";"Prijaznost lokalnega prebivalstva";42577;16746;23960;N;-;-;N
+" ";" ";"Raznovrstnost kulturnih/zgodovinskih zanimivosti";42577;N;24031;10914;-;N;N
+" ";" ";"Ponudba kulturnih prireditev";42577;N;14476;16917;N;-;5964
+" ";" ";"Ponudba športnih in rekreativnih dejavnosti";42577;6388;23571;6031;N;-;6308
+" ";" ";"Ponudba športnih prireditev";42577;N;10597;15912;N;N;11149
+" ";" ";"Zdravstvena ponudba";42577;N;11708;12494;-;-;16511
+" ";" ";"Dobropoèutna ponudba";42577;N;17167;8676;-;-;12357
+" ";" ";"Ponudba lokalne gastronomije";42577;6871;29125;4426;-;-;N
+" ";" ";"Možnosti za nakupovanje";42577;N;15310;19340;N;N;N
+" ";" ";"Noèno življenje in zabava";42577;N;12896;17777;N;N;8912
+" ";" ";"Možnosti za poèitek";42577;12385;27749;N;-;-;N
+" ";" ";"Primerno za družine";42577;7525;25696;N;-;-;7894
+" ";" ";"Ponudba kazinojev in igralnic";42577;N;N;7925;11281;-;16217
+" ";" ";"Konferenèna ponudba";42577;N;9787;11352;-;-;20009
+" ";" ";"Kakovost nastanitve";42577;10135;22415;8581;N;-;N
+" ";" ";"Cenovna ugodnost ponudbe";42577;8418;22777;9713;N;-;N
+" ";" ";"Sloves destinacije";42577;8884;21494;8669;N;-;N
+" ";"Obmorske obèine"
+" ";" ";"Osebna varnost";32476;8797;22460;N;-;-;N
+" ";" ";"Dostopnost turistiènih informacij";32476;N;24420;4459;N;-;N
+" ";" ";"Enostavnost dostopnosti destinacije";32476;N;24652;4160;N;-;N
+" ";" ";"Cenovna ugodnost prevoza do destinacije";32476;N;19987;5205;N;N;N
+" ";" ";"Organizacija lokalnega prevoza";32476;N;13522;5509;N;N;8407
+" ";" ";"Splošna èistoèa destinacije";32476;6770;20343;4920;-;-;N
+" ";" ";"Neokrnjena narava";32476;6542;20171;5191;N;-;N
+" ";" ";"Podnebne razmere";32476;6874;21192;3781;N;-;-
+" ";" ";"Skrb za okolje";32476;5831;21851;4634;-;-;N
+" ";" ";"Prijaznost lokalnega prebivalstva";32476;9435;16532;4731;N;-;N
+" ";" ";"Raznovrstnost kulturnih/zgodovinskih zanimivosti";32476;N;19089;8811;-;-;N
+" ";" ";"Ponudba kulturnih prireditev";32476;N;14075;9880;N;-;4521
+" ";" ";"Ponudba športnih in rekreativnih dejavnosti";32476;N;16862;8953;-;-;6166
+" ";" ";"Ponudba športnih prireditev";32476;N;10035;9067;N;N;11004
+" ";" ";"Zdravstvena ponudba";32476;N;8124;N;N;N;19332
+" ";" ";"Dobropoèutna ponudba";32476;N;14739;3844;N;-;10243
+" ";" ";"Ponudba lokalne gastronomije";32476;7053;17285;4881;N;-;N
+" ";" ";"Možnosti za nakupovanje";32476;N;15832;9283;N;N;4292
+" ";" ";"Noèno življenje in zabava";32476;N;13683;10910;N;N;5311
+" ";" ";"Možnosti za poèitek";32476;5900;23948;N;-;-;N
+" ";" ";"Primerno za družine";32476;N;18142;4932;-;-;7362
+" ";" ";"Ponudba kazinojev in igralnic";32476;N;8183;N;N;N;20018
+" ";" ";"Konferenèna ponudba";32476;N;3820;N;N;-;25616
+" ";" ";"Kakovost nastanitve";32476;4771;22741;4350;N;-;N
+" ";" ";"Cenovna ugodnost ponudbe";32476;N;23770;4601;N;-;-
+" ";" ";"Sloves destinacije";32476;5308;21120;5618;-;-;N
+" ";"Ljubljana"
+" ";" ";"Osebna varnost";52167;32494;17478;N;-;-;N
+" ";" ";"Dostopnost turistiènih informacij";52167;17503;24502;6116;N;-;2049
+" ";" ";"Enostavnost dostopnosti destinacije";52167;18397;24766;5952;N;-;N
+" ";" ";"Cenovna ugodnost prevoza do destinacije";52167;11154;24455;10854;N;N;4646
+" ";" ";"Organizacija lokalnega prevoza";52167;11107;18755;9042;N;N;11400
+" ";" ";"Splošna èistoèa destinacije";52167;22917;24606;3276;-;-;N
+" ";" ";"Neokrnjena narava";52167;24303;21801;3799;N;N;N
+" ";" ";"Podnebne razmere";52167;11206;29819;8182;N;-;N
+" ";" ";"Skrb za okolje";52167;16381;24107;7602;N;-;3389
+" ";" ";"Prijaznost lokalnega prebivalstva";52167;23105;20138;5453;N;N;N
+" ";" ";"Raznovrstnost kulturnih/zgodovinskih zanimivosti";52167;16082;22907;6318;N;-;5627
+" ";" ";"Ponudba kulturnih prireditev";52167;7102;22389;10030;N;-;10453
+" ";" ";"Ponudba športnih in rekreativnih dejavnosti";52167;3985;9189;8843;N;N;26764
+" ";" ";"Ponudba športnih prireditev";52167;3839;6354;6684;N;N;30972
+" ";" ";"Zdravstvena ponudba";52167;5053;6096;3221;N;N;33535
+" ";" ";"Dobropoèutna ponudba";52167;3815;7426;5776;N;N;30852
+" ";" ";"Ponudba lokalne gastronomije";52167;17185;23905;6766;N;-;4209
+" ";" ";"Možnosti za nakupovanje";52167;9481;21483;15530;N;N;4508
+" ";" ";"Noèno življenje in zabava";52167;4249;12456;12508;N;N;20016
+" ";" ";"Možnosti za poèitek";52167;8063;24559;11690;N;N;6929
+" ";" ";"Primerno za družine";52167;7022;16628;8036;N;-;19451
+" ";" ";"Ponudba kazinojev in igralnic";52167;N;4630;6843;2290;N;34145
+" ";" ";"Konferenèna ponudba";52167;3558;6598;N;N;N;37872
+" ";" ";"Kakovost nastanitve";52167;17454;26744;6161;N;N;N
+" ";" ";"Cenovna ugodnost ponudbe";52167;13748;27023;8793;N;-;N
+" ";" ";"Sloves destinacije";52167;21836;21882;6509;-;-;N
+" ";"Mestne obèine in druge obèin"
+" ";" ";"Osebna varnost";38706;27808;9900;-;-;N;N
+" ";" ";"Dostopnost turistiènih informacij";38706;18808;14603;N;N;-;N
+" ";" ";"Enostavnost dostopnosti destinacije";38706;16694;10921;8284;N;-;N
+" ";" ";"Cenovna ugodnost prevoza do destinacije";38706;12622;9191;9543;N;-;5444
+" ";" ";"Organizacija lokalnega prevoza";38706;12475;10239;N;N;N;5071
+" ";" ";"Splošna èistoèa destinacije";38706;17306;16336;N;N;-;N
+" ";" ";"Neokrnjena narava";38706;16935;16301;N;-;-;N
+" ";" ";"Podnebne razmere";38706;15394;17639;N;N;-;N
+" ";" ";"Skrb za okolje";38706;13619;16833;N;N;-;N
+" ";" ";"Prijaznost lokalnega prebivalstva";38706;22414;11200;N;N;-;N
+" ";" ";"Raznovrstnost kulturnih/zgodovinskih zanimivosti";38706;6257;18502;8340;N;-;N
+" ";" ";"Ponudba kulturnih prireditev";38706;7103;10159;11555;N;N;7550
+" ";" ";"Ponudba športnih in rekreativnih dejavnosti";38706;5460;10773;N;N;-;10885
+" ";" ";"Ponudba športnih prireditev";38706;N;7283;7262;N;N;15521
+" ";" ";"Zdravstvena ponudba";38706;N;N;6116;N;N;18417
+" ";" ";"Dobropoèutna ponudba";38706;8027;N;N;N;N;16416
+" ";" ";"Ponudba lokalne gastronomije";38706;12835;12258;6429;N;N;N
+" ";" ";"Možnosti za nakupovanje";38706;6276;10531;8208;N;-;9772
+" ";" ";"Noèno življenje in zabava";38706;N;N;8246;N;N;15937
+" ";" ";"Možnosti za poèitek";38706;9548;17684;7232;N;N;N
+" ";" ";"Primerno za družine";38706;8701;7334;9533;N;N;11006
+" ";" ";"Ponudba kazinojev in igralnic";38706;N;N;N;N;-;19947
+" ";" ";"Konferenèna ponudba";38706;N;N;N;N;-;20587
+" ";" ";"Kakovost nastanitve";38706;14032;14899;8613;N;N;N
+" ";" ";"Cenovna ugodnost ponudbe";38706;15976;17172;N;N;N;N
+" ";" ";"Sloves destinacije";38706;17807;13532;N;N;N;N
+
+"Vir: Statistièni urad Republike Slovenije. "
+"Nekateri seštevki se zaradi zaokroževanja ne ujemajo."
+
+"Povezane vsebine:  "
+"- (seznam "
+"HREF=http://www.stat.si/StatWeb/Common/PrikaziDokument.ashx?IdDatotek-"
+"e=7802 target=_blank) Metodološka pojasnila"
+

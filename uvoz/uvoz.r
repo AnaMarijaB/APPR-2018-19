@@ -27,4 +27,25 @@ uvozi.tabela3 <- function() {
 }
 tabela3 <- uvozi.tabela3()
 
+# Funkcija, ki uvozi četrto tabelo: potovanja Slovencev
+uvozi.tabela41 <- function() {
+  data <- read_csv2("podatki/tabela 4.1..csv",
+                    col_names = c("VRSTA_POTOVANJA", "DESTINACIJA", "SPOL", "LETO", "Potovanja (v 1000)", "Prenočitve (v 1000)", "Povprečni izdatki na turista na prenočitev (EUR)"),
+                    locale = locale(encoding = "Windows-1250"), skip = 4, n_max = 66, na = c("...","-", " "))
+  return(data)
+}
 
+tabela41 <- uvozi.tabela41()
+
+uvozi.tabela42 <- function() {
+  data <- read_csv2("podatki/tabela 4.2..csv",
+                    col_names = c("VRSTA_POTOVANJA", "DESTINACIJA", "STAROST", "LETO", "Potovanja (v 1000)", "Prenočitve (v 1000)", "Povprečni izdatki na turista na prenočitev (EUR)"),
+                    locale = locale(encoding = "Windows-1250"), skip = 4, n_max = 66, na = c("...","-", " "))
+  return(data)
+}
+
+tabela42 <- uvozi.tabela42()
+
+tabela4 <- inner_join(tabela41, tabela42, by= "VRSTA_POTOVANJA")  #to ni prava funkcija, kaj morem uporabit da dodam samo en stolpec po letih ?
+
+#manjka mi še funkcija fill 
